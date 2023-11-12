@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="colabconnect",
+    name="connect",
     version="0.0.8",
     license="MIT",
     description="Connect to Google Colab VM locally from VSCode",
@@ -17,6 +17,6 @@ setup(
     python_requires=">=3.7",
     author="Amit Chaudhary",
     author_email="meamitkc@gmail.com",
-    url="https://github.com/amitness/colab-connect",
+    url="https://github.com/metaltiger775/connect",
     packages=find_packages(),
 )
