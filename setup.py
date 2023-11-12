@@ -4,7 +4,7 @@ setup(
     name="connect",
     version="0.0.8",
     license="MIT",
-    description="Connect to Google Colab VM locally from VSCode",
+    description="Connect",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     classifiers=[
