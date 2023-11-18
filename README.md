@@ -18,9 +18,9 @@ On Google Colab, first install the library and the run the code.
 ```
 
 ```python
-from colabconnect import colabconnect
+from connect import connect
 
-colabconnect()
+connect()
 ```
 
 1. After running the code, copy the given code, click the GitHub link and paste the code.
